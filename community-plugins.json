@@ -9098,5 +9098,12 @@
      "author": "Mgussekloo",
      "description": "Autofocus the editor when opening a new file.",
      "repo": "mgussekloo/obsidian-editor-autofocus"
-  }
+  },
+  {
+  "id": "openproject-connect",
+  "name": "OpenProject-Connect",
+  "author": "Geksaida",
+  "description": "Plugin to sync OpenProject work packages status in Obsidian notes",
+  "repo": "geksaida/openproject-connect"
+}
 ]
